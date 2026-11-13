@@ -9,7 +9,7 @@
       "kind": "page",
       "level": "一年级",
       "subject": "",
-      "minutes": 20,
+      "minutes": 0,
       "allow": "www.xiaohi.cc,www.xiaohi.net"
     },
     {
@@ -18,7 +18,7 @@
       "kind": "page",
       "level": "二年级",
       "subject": "",
-      "minutes": 20,
+      "minutes": 0,
       "allow": "www.xiaohi.cc,www.xiaohi.net"
     },
     {
@@ -27,7 +27,7 @@
       "kind": "page",
       "level": "三年级",
       "subject": "",
-      "minutes": 20,
+      "minutes": 0,
       "allow": "www.xiaohi.cc,www.xiaohi.net"
     },
     {
@@ -36,7 +36,7 @@
       "kind": "page",
       "level": "四年级",
       "subject": "",
-      "minutes": 20,
+      "minutes": 0,
       "allow": "www.xiaohi.cc,www.xiaohi.net"
     },
     {
@@ -45,7 +45,7 @@
       "kind": "page",
       "level": "五年级",
       "subject": "",
-      "minutes": 20,
+      "minutes": 0,
       "allow": "www.xiaohi.cc,www.xiaohi.net"
     },
     {
@@ -54,7 +54,7 @@
       "kind": "page",
       "level": "六年级",
       "subject": "",
-      "minutes": 20,
+      "minutes": 0,
       "allow": "www.xiaohi.cc,www.xiaohi.net"
     }
   ]
