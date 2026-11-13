@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "name": "小学 1-6 年级学习资源目录",
+  "note": "只收录「标题 + 网址」，视频与课程仍在小嗨视频课堂原站播放。本文件可被 StudyOnTV「学习资源目录」直接拉取。",
+  "items": [
+    {
+      "title": "一年级 全科同步课",
+      "url": "https://www.xiaohi.cc/k1.html",
+      "kind": "page",
+      "level": "一年级",
+      "subject": "",
+      "minutes": 20,
+      "allow": "www.xiaohi.cc,www.xiaohi.net"
+    },
+    {
+      "title": "二年级 全科同步课",
+      "url": "https://www.xiaohi.cc/k2.html",
+      "kind": "page",
+      "level": "二年级",
+      "subject": "",
+      "minutes": 20,
+      "allow": "www.xiaohi.cc,www.xiaohi.net"
+    },
+    {
+      "title": "三年级 全科同步课",
+      "url": "https://www.xiaohi.cc/k3.html",
+      "kind": "page",
+      "level": "三年级",
+      "subject": "",
+      "minutes": 20,
+      "allow": "www.xiaohi.cc,www.xiaohi.net"
+    },
+    {
+      "title": "四年级 全科同步课",
+      "url": "https://www.xiaohi.cc/k4.html",
+      "kind": "page",
+      "level": "四年级",
+      "subject": "",
+      "minutes": 20,
+      "allow": "www.xiaohi.cc,www.xiaohi.net"
+    },
+    {
+      "title": "五年级 全科同步课",
+      "url": "https://www.xiaohi.cc/k5.html",
+      "kind": "page",
+      "level": "五年级",
+      "subject": "",
+      "minutes": 20,
+      "allow": "www.xiaohi.cc,www.xiaohi.net"
+    },
+    {
+      "title": "六年级 全科同步课",
+      "url": "https://www.xiaohi.cc/k6.html",
+      "kind": "page",
+      "level": "六年级",
+      "subject": "",
+      "minutes": 20,
+      "allow": "www.xiaohi.cc,www.xiaohi.net"
+    }
+  ]
+}
