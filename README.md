@@ -43,5 +43,22 @@
 
 ## 远程访问
 
-- raw：`https://raw.githubusercontent.com/hany1123/tilegeti-grade1-question-bank/main/tilegeti-grade1-100.json`
-- CDN（国内更快）：`https://cdn.jsdelivr.net/gh/hany1123/tilegeti-grade1-question-bank@main/tilegeti-grade1-100.json`
+2026-11-13 在本机（中国大陆，无代理）实测各链路可达性，结果如下：
+
+| 链路 | 地址 | 实测 |
+| --- | --- | --- |
+| jsDelivr fastly 节点（推荐） | `https://fastly.jsdelivr.net/gh/hany1123/tilegeti-grade1-question-bank@main/tilegeti-grade1-100.json` | 200 ✅ |
+| gh-proxy 反代 | `https://gh-proxy.com/https://raw.githubusercontent.com/hany1123/tilegeti-grade1-question-bank/main/tilegeti-grade1-100.json` | 200 ✅ |
+| ghproxy.net 反代 | `https://ghproxy.net/https://raw.githubusercontent.com/hany1123/tilegeti-grade1-question-bank/main/tilegeti-grade1-100.json` | 200 ✅ |
+| GitHub raw 直连 | `https://raw.githubusercontent.com/hany1123/tilegeti-grade1-question-bank/main/tilegeti-grade1-100.json` | 000 ❌ |
+| cdn.jsdelivr.net | `https://cdn.jsdelivr.net/gh/hany1123/tilegeti-grade1-question-bank@main/tilegeti-grade1-100.json` | 000 ❌ |
+
+`fastly.jsdelivr.net` 走 CDN，缓存约 12 小时；需要立即生效时可用 gh-proxy 链路，或在 GitHub 上提交后追加 `?t=时间戳` 破缓存。
+
+## 文件清单
+
+| 文件 | 结构 | 用途 |
+| --- | --- | --- |
+| `tilegeti-grade1-100.json` | `{"name","version","items":[…]}` | StudyOnTV 远程题库同步（含 subject / level） |
+| `grade1-all.json` | `{"name","version","items":[…]}` | 与 APK 内置题库（`data/banks/`）同构的完整文件 |
+
