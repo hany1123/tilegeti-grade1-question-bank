@@ -1,61 +1,124 @@
 {
-  "version": 1,
-  "name": "小学 1-6 年级学习资源目录",
-  "note": "只收录「标题 + 网址」，视频与课程仍在小嗨视频课堂原站播放。本文件可被 StudyOnTV「学习资源目录」直接拉取。",
+  "version": 2,
+  "name": "小学一年级 · 国家中小学智慧教育平台 课程目录",
+  "note": "按课文/单元顺序排列，语数英交替；在 basic.smartedu.cn 原站播放，需家长登录一次（登录态会记住）。本文件可被 StudyOnTV「学习资源目录」直接拉取。",
   "items": [
     {
-      "title": "一年级 全科同步课",
-      "url": "https://www.xiaohi.cc/k1.html",
+      "title": "一年级 · 语文 · 我是中国人",
+      "url": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=d90567b2-a8db-40a9-13c8-a7ad4f383e3c&chapterId=cb1c9335-b7fd-4909-bb8c-5a5da2d5207e&teachingmaterialId=b7062df1-f929-458e-964c-d778f89ca255&fromPrepare=0&classHourId=lesson_1",
       "kind": "page",
       "level": "一年级",
-      "subject": "",
+      "subject": "语文",
       "minutes": 0,
-      "allow": "www.xiaohi.cc,www.xiaohi.net"
+      "allow": "basic.smartedu.cn,auth.smartedu.cn"
     },
     {
-      "title": "二年级 全科同步课",
-      "url": "https://www.xiaohi.cc/k2.html",
+      "title": "一年级 · 数学 · 在校园里找一找",
+      "url": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=a817b06d-5d49-e59f-1bff-354e28f85d6e&chapterId=2524deea-316d-4978-85a3-fdaac5ac3c6b&teachingmaterialId=ba9d9c0b-2c1c-4bba-84d7-369fb405bb13&fromPrepare=0&classHourId=lesson_1",
       "kind": "page",
-      "level": "二年级",
-      "subject": "",
+      "level": "一年级",
+      "subject": "数学",
       "minutes": 0,
-      "allow": "www.xiaohi.cc,www.xiaohi.net"
+      "allow": "basic.smartedu.cn,auth.smartedu.cn"
     },
     {
-      "title": "三年级 全科同步课",
-      "url": "https://www.xiaohi.cc/k3.html",
+      "title": "一年级 · 英语 · Unit 1 Hello! I’m Maomao (1)",
+      "url": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=3cae02ce-9879-11ec-92ef-246e9675e50c&chapterId=4ae5ee42-2583-33d1-abe5-10144664cad9&teachingmaterialId=902df5ec-e291-46e5-8f58-b379f648f564&fromPrepare=0&classHourId=lesson_1",
       "kind": "page",
-      "level": "三年级",
-      "subject": "",
+      "level": "一年级",
+      "subject": "英语",
       "minutes": 0,
-      "allow": "www.xiaohi.cc,www.xiaohi.net"
+      "allow": "basic.smartedu.cn,auth.smartedu.cn"
     },
     {
-      "title": "四年级 全科同步课",
-      "url": "https://www.xiaohi.cc/k4.html",
+      "title": "一年级 · 语文 · 我爱我们的祖国",
+      "url": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=fa8bbc5d-717a-eea5-6411-eddaf5631c9d&chapterId=2a8005fa-c969-46e4-8b6c-d194c168280a&teachingmaterialId=b7062df1-f929-458e-964c-d778f89ca255&fromPrepare=0&classHourId=lesson_1",
       "kind": "page",
-      "level": "四年级",
-      "subject": "",
+      "level": "一年级",
+      "subject": "语文",
       "minutes": 0,
-      "allow": "www.xiaohi.cc,www.xiaohi.net"
+      "allow": "basic.smartedu.cn,auth.smartedu.cn"
     },
     {
-      "title": "五年级 全科同步课",
-      "url": "https://www.xiaohi.cc/k5.html",
+      "title": "一年级 · 数学 · 在操场上玩一玩",
+      "url": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=f4ef48f1-2f0b-60e2-f3f8-fca9877dca02&chapterId=0ec44b98-caf0-499b-903a-7724fc21032f&teachingmaterialId=ba9d9c0b-2c1c-4bba-84d7-369fb405bb13&fromPrepare=0&classHourId=lesson_1",
       "kind": "page",
-      "level": "五年级",
-      "subject": "",
+      "level": "一年级",
+      "subject": "数学",
       "minutes": 0,
-      "allow": "www.xiaohi.cc,www.xiaohi.net"
+      "allow": "basic.smartedu.cn,auth.smartedu.cn"
     },
     {
-      "title": "六年级 全科同步课",
-      "url": "https://www.xiaohi.cc/k6.html",
+      "title": "一年级 · 英语 · Unit 1 Hello! I’m Maomao (2)",
+      "url": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=3cae0312-9879-11ec-92ef-246e9675e50c&chapterId=5d81d05a-63f0-3734-a4dd-607ab8b897aa&teachingmaterialId=902df5ec-e291-46e5-8f58-b379f648f564&fromPrepare=0&classHourId=lesson_1",
       "kind": "page",
-      "level": "六年级",
-      "subject": "",
+      "level": "一年级",
+      "subject": "英语",
       "minutes": 0,
-      "allow": "www.xiaohi.cc,www.xiaohi.net"
+      "allow": "basic.smartedu.cn,auth.smartedu.cn"
+    },
+    {
+      "title": "一年级 · 语文 · 我是小学生",
+      "url": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=a08deb48-e35b-b3f7-726f-eb10285aa3f1&chapterId=536340a2-f524-451d-b804-2161d36dc697&teachingmaterialId=b7062df1-f929-458e-964c-d778f89ca255&fromPrepare=0&classHourId=lesson_1",
+      "kind": "page",
+      "level": "一年级",
+      "subject": "语文",
+      "minutes": 0,
+      "allow": "basic.smartedu.cn,auth.smartedu.cn"
+    },
+    {
+      "title": "一年级 · 数学 · 在教室里认一认",
+      "url": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=b0b7e9fe-ec7f-39be-52e2-420b03c1aa8f&chapterId=27ef31a3-a3a4-475c-b5ce-ea8abff9a1a4&teachingmaterialId=ba9d9c0b-2c1c-4bba-84d7-369fb405bb13&fromPrepare=0&classHourId=lesson_1",
+      "kind": "page",
+      "level": "一年级",
+      "subject": "数学",
+      "minutes": 0,
+      "allow": "basic.smartedu.cn,auth.smartedu.cn"
+    },
+    {
+      "title": "一年级 · 英语 · Unit 1 Hello! I’m Maomao (3)",
+      "url": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=da781f8f-9dcd-11ec-92ef-246e9675e50c&chapterId=923b84aa-113c-37d4-b09d-70551138d5fa&teachingmaterialId=902df5ec-e291-46e5-8f58-b379f648f564&fromPrepare=0&classHourId=lesson_1",
+      "kind": "page",
+      "level": "一年级",
+      "subject": "英语",
+      "minutes": 0,
+      "allow": "basic.smartedu.cn,auth.smartedu.cn"
+    },
+    {
+      "title": "一年级 · 语文 · 我爱学语文",
+      "url": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=be4124a9-54c8-3a31-4730-bf33907f8c22&chapterId=5042e870-0e5e-4fa4-a7c8-c950252756d5&teachingmaterialId=b7062df1-f929-458e-964c-d778f89ca255&fromPrepare=0&classHourId=lesson_1",
+      "kind": "page",
+      "level": "一年级",
+      "subject": "语文",
+      "minutes": 0,
+      "allow": "basic.smartedu.cn,auth.smartedu.cn"
+    },
+    {
+      "title": "一年级 · 数学 · 在教室里玩一玩",
+      "url": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=ac17e8bb-f3f7-7889-4aca-e61e3981131e&chapterId=c05e3de7-5ace-42dc-b192-71891ae3104e&teachingmaterialId=ba9d9c0b-2c1c-4bba-84d7-369fb405bb13&fromPrepare=0&classHourId=lesson_1",
+      "kind": "page",
+      "level": "一年级",
+      "subject": "数学",
+      "minutes": 0,
+      "allow": "basic.smartedu.cn,auth.smartedu.cn"
+    },
+    {
+      "title": "一年级 · 语文 · 天地人",
+      "url": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=8b8984a0-3ad9-3183-8250-9dd550069836&chapterId=b31083e2-7d93-46a4-80ef-022b8bdf1a3f&teachingmaterialId=b7062df1-f929-458e-964c-d778f89ca255&fromPrepare=0&classHourId=lesson_1",
+      "kind": "page",
+      "level": "一年级",
+      "subject": "语文",
+      "minutes": 0,
+      "allow": "basic.smartedu.cn,auth.smartedu.cn"
+    },
+    {
+      "title": "一年级 · 数学 · 学习准备",
+      "url": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=1f16d287-aefe-9b32-62c5-c39908911df4&chapterId=a4706af0-8324-44ae-b1db-c8be2a38fb3f&teachingmaterialId=ba9d9c0b-2c1c-4bba-84d7-369fb405bb13&fromPrepare=0&classHourId=lesson_1",
+      "kind": "page",
+      "level": "一年级",
+      "subject": "数学",
+      "minutes": 0,
+      "allow": "basic.smartedu.cn,auth.smartedu.cn"
     }
   ]
 }
